@@ -1,0 +1,4 @@
+name: lobby
+version: '${version}'
+main: moe.vion.lobby.Lobby
+api-version: '1.20'
